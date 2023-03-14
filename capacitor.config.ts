@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'nl.vattenfall.liveupdatesexample',
   appName: 'live-updates-example',
   webDir: 'www',
   bundledWebRuntime: false
