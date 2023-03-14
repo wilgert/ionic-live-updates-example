@@ -1,0 +1,7 @@
+{
+  "name": "live-updates-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
