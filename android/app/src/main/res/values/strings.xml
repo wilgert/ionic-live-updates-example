@@ -5,7 +5,7 @@
   <string name="package_name">nl.vattenfall.liveupdatesexample</string>
   <string name="custom_url_scheme">nl.vattenfall.liveupdatesexample</string>
   <string name="ionic_app_id">43679198</string>
-  <string name="ionic_channel_name">Production</string>
+  <string name="ionic_channel_name">with-http-plugin</string>
   <string name="ionic_update_method">auto</string>
   <string name="ionic_max_versions">2</string>
   <string name="ionic_min_background_duration">30</string>
